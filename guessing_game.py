@@ -42,9 +42,3 @@ while count != 0:
             count = 3
         elif another_game == 'n':
             continue
-
-
-
-
-
-
